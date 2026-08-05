@@ -619,5 +619,3 @@ Read:
 * `kernel/fork.c`
 
   * Process creation logic
-
-```
