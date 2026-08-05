@@ -604,3 +604,20 @@ The memory containing these functions is released after initialization.
 This saves RAM.
 
 ---
+---
+
+# Suggested Next Files to Read
+
+Now that the kernel is running, the next step is understanding process management.
+
+Read:
+
+* `include/linux/sched.h`
+
+  * Definition of `task_struct`
+
+* `kernel/fork.c`
+
+  * Process creation logic
+
+```
