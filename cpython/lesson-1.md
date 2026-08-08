@@ -1,6 +1,6 @@
-# CPython Internals Exploration — Lesson 1
+# CPython  Lesson 1
 
-## Repository Structure and Execution Pipeline
+## Repository Structure 
 
 Welcome to CPython internals.
 
