@@ -1,5 +1,8 @@
-# 🐍 CPython Lesson List
+# CPython
 
+## 🔗 Official CPython Repository: https://github.com/python/cpython
+
+## 🐍 CPython Lesson List
 1. 🏗️ **Introduction to CPython & Repository Structure**
 2. 🔨 **Building CPython from Source**
 3. ⚙️ **Python Execution Model**
