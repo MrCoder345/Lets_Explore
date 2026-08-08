@@ -1,6 +1,6 @@
 # CPython
 
-## 🔗 Official CPython Repository: https://github.com/python/cpython
+🔗 [Official CPython Repository Link](https://github.com/python/cpython)
 
 ## 🐍 CPython Lesson List
 1. 🏗️ **Introduction to CPython & Repository Structure**
