@@ -1,4 +1,4 @@
-# CPython  Lesson 1
+# CPython 
 
 ## Repository Structure 
 
